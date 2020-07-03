@@ -1,0 +1,14 @@
+body{
+    background-image: url(image/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1:hover{
+    background-color: salmon;
+    color: black;
+    cursor: pointer;
+
+}
+p{
+    color: rgb(156, 151, 151);
+}
